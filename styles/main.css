@@ -1,0 +1,35 @@
+body
+{
+  font-family: monospace;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5;
+  letter-spacing: 0.00938em;
+  background-color: #1c1c1c;
+  color: #cccccc;
+}
+
+h1, h2
+{
+  color: #f92672;
+  font-weight: 300;
+}
+
+h1
+{
+  font-size: 6rem;
+  line-height: 1.167;
+  letter-spacing: -0.01562em;
+}
+
+h2
+{
+  font-size: 3.75rem;
+  line-height: 1.2;
+  letter-spacing: -0.00833em;
+}
+
+#intro
+{
+  text-align: center;
+}
